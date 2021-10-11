@@ -1,6 +1,6 @@
 {
     "private": true,
     "dependencies": {
-        "codex-theme": "^0.0.6"
+        "codex-theme": "^0.1.0"
     }
 }
